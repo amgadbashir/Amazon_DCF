@@ -1,6 +1,6 @@
 **What’s inside**
 
-**Valuation model (Excel):** [Amazon_DCF.xlsx](https://github.com/user-attachments/files/25347814/Amazon_DCF.xlsx)
+**Valuation model (Excel):** [Amazon_DCF.xlsx](https://github.com/user-attachments/files/25348209/Amazon_DCF.xlsx)
 
 
 * Integrated Unlevered Free Cash Flow (UFCF) forecast (FY2026–FY2030)
